@@ -42,6 +42,7 @@ end
 
 group :production do
   gem 'kandan-count'
+  gem 'unicorn'
 end
 
 group :development do

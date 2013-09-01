@@ -33,6 +33,7 @@ group :assets do
   gem 'bourbon'
   gem 'execjs'
   gem 'therubyracer'
+  gem 'jquery-ui-rails'
   gem 'eco'
   gem 'uglifier'
   gem 'bootstrap-sass', '~> 2.3.0.1'

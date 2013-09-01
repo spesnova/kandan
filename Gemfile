@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'rake'
+
 # Core gems
 gem 'rails', '3.2.13'
 

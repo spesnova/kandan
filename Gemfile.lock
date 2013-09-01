@@ -339,6 +339,7 @@ DEPENDENCIES
   pry-rails
   quiet_assets
   rails (= 3.2.13)
+  rake
   remotipart
   rspec-rails
   sass-rails
